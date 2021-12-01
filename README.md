@@ -9,8 +9,6 @@ MONGO_URI = (mongodb+srv://bookshop:DDxbwG1IvFeIvgpH@bookshop.y9kr1.mongodb.net/
 
 JWT_SECRET = 'abc123'
 
-PAYPAL_CLIENT_ID = paypal client id
-
 ### install dependencies
 
 ```
