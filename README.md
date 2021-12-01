@@ -1,4 +1,4 @@
-### enviroment variables
+### Enviroment Variables
 create a .env file under root dir which includes:
 
 NODE_ENV = development
@@ -9,7 +9,7 @@ MONGO_URI = (mongodb+srv://bookshop:DDxbwG1IvFeIvgpH@bookshop.y9kr1.mongodb.net/
 
 JWT_SECRET = 'abc123'
 
-### install dependencies
+### Install Dependencies
 
 ```
 npm install
@@ -18,7 +18,7 @@ cd frontend
 npm install
 ```
 
-### Run web
+### Run Web
 
 ```
 # run both backend and frontend
@@ -26,7 +26,7 @@ npm run dev
 ```
 
 
-### database test
+### Database Test
 
 Use the following command to create a database to test user and product information, as well as all the data that can be used
 
