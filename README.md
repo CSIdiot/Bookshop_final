@@ -23,7 +23,6 @@ npm install
 ```
 # run both backend and frontend
 npm run dev
-
 ```
 
 
