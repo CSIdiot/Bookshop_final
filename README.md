@@ -2,9 +2,13 @@
 create a .env file under root dir which includes:
 
 NODE_ENV = development
+
 PORT = 8888
+
 MONGO_URI = (mongodb+srv://bookshop:DDxbwG1IvFeIvgpH@bookshop.y9kr1.mongodb.net/test?authSource=admin&replicaSet=atlas-xepdx8-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true)retryWrites=true&w=majority）
+
 JWT_SECRET = 'abc123'
+
 PAYPAL_CLIENT_ID = paypal client id
 
 ### install dependencies
